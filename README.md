@@ -36,7 +36,7 @@ I'm **Juan**, a **Software Engineer** interested on finding efficent solutions o
   </table>
 </div>
 
-Other technologies Im familiar with:
+Other technologies I'm familiar with:
 - **Databases:** Mongo DB, MSSQL Server, MySQL  
 - **Architectures:** Microservices, Hexagonal, MVC
 
