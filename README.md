@@ -3,7 +3,7 @@
 I'm **Juan**, a **Software Engineer** interested on finding efficent solutions on any problem.
 
 <div align="center">
-    <img src="https://media1.tenor.com/m/lyVnw2zyaU4AAAAd/helicopter.gif" alt="Coding" width="250"/>
+    <img src="https://media.tenor.com/MXpzFUsxcT0AAAAM/logic-engineer.gif" alt="Coding" width="250"/>
 </div>
 
 ### 🧰 Languages and Tools
