@@ -46,6 +46,6 @@ Other technologies I'm familiar with:
 
 Don’t hesitate to reach out if you want to team up on a project, or simply talk!
 
-- 📧 [jestebanreyest@outlook.com](mailto:jereyest@outlook.com)
+- 📧 [jereyest@outlook.com](mailto:jereyest@outlook.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-esteban-reyes-tausa-2047bb2b2/)
 - 📚 [Working on Website!]()
