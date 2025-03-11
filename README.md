@@ -1,6 +1,6 @@
 # Hello! 😊✌🏼
 
-I'm **Juan**, a **Software Engineer** interested on finding efficent solutions on any kind of problem.
+I'm **Juan**, a **Systems Engineer** interested on finding efficent solutions on any kind of problem.
 
 <div align="center">
     <img src="https://media.tenor.com/MXpzFUsxcT0AAAAM/logic-engineer.gif" alt="Coding" width="250"/>
